@@ -1,7 +1,7 @@
 # ODL-Tamil---SN
 
-Title: Towards Offensive Language Identification for Tamil Code-Mixed YouTube Comments and Posts
-Authors: Charangan Vasantharajan, and Uthayasanker Thayasivam
+Title: Towards Offensive Language Identification for Tamil Code-Mixed YouTube Comments and Posts<br />
+Authors: Charangan Vasantharajan, and Uthayasanker Thayasivam<br />
 Journal: Machine Learning for Offensive and Highly Emotional Content on Social Media, SN Computer Science
      
 # Cite
